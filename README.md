@@ -1,6 +1,6 @@
 # Flow-Structs
 Project Title
-Movie
+New Movie
 
 Description
 it defines a smart contract that allows the addition of movies to a collection. Each movie is represented by a struct with properties for its title, director, and Year. The addmovie function enables the addition of new movies to the contract's collection.
