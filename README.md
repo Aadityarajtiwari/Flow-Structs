@@ -1,9 +1,9 @@
 # Flow-Structs
 Project Title
-New car
+New Movie
 
 Description
-it defines a smart contract that allows the addition of cars to a collection. Each car is represented by a struct with properties for its model, year, and price. The addCar function enables the addition of new cars to the contract's collection.
+it defines a smart contract that allows the addition of movies to a collection. Each movie is represented by a struct with properties for its title, director  and release year. The addmovie function enables the addition of new movie to the contract's collection.
 
 Getting Started
 just copy the code fron the repo and paste in the flow playground
@@ -13,4 +13,4 @@ deploy the contract and start sending the details of car in the transaction part
 
 Authors
 
-Ojasvita Das
+Aadiraj
